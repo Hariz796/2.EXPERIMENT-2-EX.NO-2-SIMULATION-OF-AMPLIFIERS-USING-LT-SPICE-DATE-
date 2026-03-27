@@ -39,10 +39,13 @@ DATE:
 
 PASTE THE CIRCUIT HERE
 ---
+<img width="835" height="376" alt="image" src="https://github.com/user-attachments/assets/87b241bd-70e0-4b6b-bcce-b64668626c7b" />
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="876" height="411" alt="image" src="https://github.com/user-attachments/assets/87bf0a74-64a0-4ced-8dc5-b9daac95e49a" />
+
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
@@ -50,10 +53,13 @@ PASTE THE OUTPUT WAVEFORM HERE
 
 PASTE THE CIRCUIT HERE
 ---
+<img width="928" height="372" alt="image" src="https://github.com/user-attachments/assets/12bc2c5e-f5c3-425c-95fa-caeef4f65bec" />
 
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1913" height="901" alt="image" src="https://github.com/user-attachments/assets/84185e41-c7c5-4986-a14e-e988d7735a16" />
+
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
@@ -61,10 +67,13 @@ PASTE THE OUTPUT WAVEFORM HERE
 
 PASTE THE CIRCUIT HERE
 ---
+<img width="1889" height="881" alt="image" src="https://github.com/user-attachments/assets/abc2a47c-2bd0-4571-a0bb-f0c6ee2c2de3" />
 
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/bb91533d-e24e-4b5a-aae2-5d36cf43c67d" />
+
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
